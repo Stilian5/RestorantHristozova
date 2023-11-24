@@ -1,0 +1,10 @@
+C:\Users\STUDENTS-1209-4\Desktop\12а\Restorant\bin\Debug\Restorant.exe.config
+C:\Users\STUDENTS-1209-4\Desktop\12а\Restorant\bin\Debug\Restorant.exe
+C:\Users\STUDENTS-1209-4\Desktop\12а\Restorant\bin\Debug\Restorant.pdb
+C:\Users\STUDENTS-1209-4\Desktop\12а\Restorant\obj\Debug\Restorant.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1209-4\Desktop\12а\Restorant\obj\Debug\Restorant.Form1.resources
+C:\Users\STUDENTS-1209-4\Desktop\12а\Restorant\obj\Debug\Restorant.Properties.Resources.resources
+C:\Users\STUDENTS-1209-4\Desktop\12а\Restorant\obj\Debug\Restorant.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1209-4\Desktop\12а\Restorant\obj\Debug\Restorant.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1209-4\Desktop\12а\Restorant\obj\Debug\Restorant.exe
+C:\Users\STUDENTS-1209-4\Desktop\12а\Restorant\obj\Debug\Restorant.pdb
